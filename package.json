@@ -1,0 +1,9 @@
+{
+  "name": "react-lcd",
+  "version": "1.0.0",
+  "description": "This is a simple renderer for HD44780 component",
+  "main": "index.js",
+  "author": "Ugur Kaya",
+  "license": "MIT",
+  "private": false
+}
